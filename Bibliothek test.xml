@@ -1,0 +1,12 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Test\" style=\"swimlane;whiteSpace=wrap;html=1;startSize=40;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"240\" height=\"260\" as=\"geometry\"&gt;&lt;mxRectangle x=\"320\" y=\"190\" width=\"60\" height=\"30\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;\" edge=\"1\" parent=\"2\" source=\"4\" target=\"6\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"Ich teste alles\" style=\"text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"50\" width=\"60\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;\" edge=\"1\" parent=\"2\" source=\"6\" target=\"7\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"Was kann man in draw.io alles machen wow\" style=\"whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"110\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"7\" value=\"Ich denke viel&amp;lt;br&amp;gt;wow\" style=\"ellipse;shape=cloud;whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"110\" y=\"180\" width=\"120\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 240,
+    "h": 260
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font color=&amp;quot;#ff2b2b&amp;quot;&amp;gt;And another one&amp;lt;/font&amp;gt;\" style=\"shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"360\" height=\"240\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 360,
+    "h": 240
+  }
+]</mxlibrary>
